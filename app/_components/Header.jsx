@@ -33,7 +33,6 @@ function Header() {
           />
         </div>
 
-        {/* Search Bar - Centered on medium+ screens */}
         <div className="hidden flex-1 max-w-xl mx-8 lg:flex">
           <div className="relative w-full">
             <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
